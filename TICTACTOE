@@ -42,8 +42,8 @@ int main() {
             printf("\nSorry, you lose the game!\n");
             break;
         }
-        //hiiiii
+      
     }
-    //hiiiiiiiiiiiiiii
+   
     return 0;
 }
